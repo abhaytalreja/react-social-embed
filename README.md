@@ -1,3 +1,2 @@
-# React Social Embed Component
-
-React Social Embed Component
+# react-social-embed
+React Social Embed Component https://abhaytalreja.github.io/react-social-embed/
