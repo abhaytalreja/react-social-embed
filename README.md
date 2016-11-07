@@ -2,6 +2,7 @@
 React Social Embed Component https://abhaytalreja.github.io/react-social-embed/
 
 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
+(https://david-dm.org/abhaytalreja/react-social-embed.svg)
 
 ```sh
 npm i react-instagram-embed
