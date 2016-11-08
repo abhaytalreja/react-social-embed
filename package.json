@@ -1,10 +1,10 @@
 {
   "name": "react-social-embed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Social Embed Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/you/repo.git"
+    "url": "https://github.com/abhaytalreja/react-social-embed"
   },
   "keywords": [
     "react",
