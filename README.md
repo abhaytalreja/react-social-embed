@@ -9,7 +9,7 @@ React Social Embed Component https://abhaytalreja.github.io/react-social-embed/
 [![npm version](https://badge.fury.io/js/query-string.svg)](https://badge.fury.io/js/query-string)
 
 ```sh
-npm i react-instagram-embed
+npm i react-social-embed
 ```
 
 [Live demo](https://abhaytalreja.github.io/react-social-embed/)
